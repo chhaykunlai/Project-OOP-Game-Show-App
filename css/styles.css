@@ -72,6 +72,7 @@ button {
   height: 100%;
   max-height: 900px;
   text-align: center;
+  background-color: #18b391;
 }
 
 .section {
@@ -89,6 +90,10 @@ button {
   color: #3a3f58;
 }
 
+/* Instruction */
+.instruction {
+  color: #3a3f58;
+}
 
 /* Phrase */
 
